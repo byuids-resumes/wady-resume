@@ -1,13 +1,13 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Wady Gomez's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Wady Gomez
+Business analyst highly interested in the finantial market
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="https://github.com/wadygmz">Github</a>
+| <a href="https://www.linkedin.com/in/wadygmz/">Linkedin</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -15,74 +15,76 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2014-2016`
+__Tech American Institute__, Santo Domingo, DR
 
-- Full academic scholarship with 4.0 GPA
+- Automated Mechatronic Systems Associate Degree with 4.0 GPA
 
-`Expected 2029`
+`2019-2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Academic Excellence Ricks Schollarsgip with 3.8 Major GPA
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`May 2022 - September 2022`
+__The Church of Jesus Christ ICS__, Riverton, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Committed works toward continuous improvement recognizing importance of feedback and seek to understand the voice of 50+ customer per week.
+- Begin to use process improvement tools like agile methodology and JIRA software to separate and combine tasks into efficient workflow.
+- Prepared feedback metric information for product managers’ weekly analysis.
 
-### Data Science Lead
+### Full-Time Professional Experience
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`September 2021 - December 2022`
+__Brigham Young University - Idaho__, Business Applications Tutor
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Designed a study plan that serves 50+ students each semester, to develop final project by applying intermediate spreadsheet analysis skills in a business context, with an overall grade of A+
+- Redesigned and reinforced 10+ lessons presented by teachers by reviewing material with students one-on-one and in small groups. 
+- Customized information in ways meet each student's learning style and educated students on three new strategies for effective studying, note taking and text taking.
 
 `September 2027 - April 2028`
-__Good2Go__, Consultant
+__Brigham Young University - Idaho__, Academic Advisor
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Directed 100+ students in setting goals and achieving educational objectives by exploring career options aligned with interests.
+- Proposed a university level Career-Connected Learning structure to be used for 10+ new employees and general training activities.
+- •	Identified problems with existing business students career plan and led project re-evaluate strategy, both simplified staff workloads and saved students up to three semesters of school and equivalent of $ 3,500 per student on tuition cost.
 
-### Data Science Consulting Team
+### Volunteer Experience
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`February 2017 - February 2019`
+__The Church of Jesus Christ of Latter Day-Saints__, Full-time Volunteer Representative
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Adapted to entirely different culture and connected with local people while serving 60-80 hours per week.
+- Obtained conversational fluency in written and spoken Portuguese within 3 months.
+- Mentored and led 100+ other volunteers to accomplish weekly and monthly goals, with an outcome of increasing by 90% productivity.
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+`June 2020`
+__The Church of Jesus Christ of Latter Day-Saints__, Youth-oriented Seminar Coordinator
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
+- Managed and coordinated 35+ events weekly, achieving on time and under budget execution with 99%+ customer satisfaction.
+- Communicated with vendors, clients, city officials, and staff to retain customers loyalty and ensure organization of events and internal and external level.
+- Proposed effective layouts for events and coordinated all staff management, event logistic and organization.
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Key Skills
+
+__R & Python__, Data Analysis 
+
+__Advance Excel__
+
+__Advance SQL__, Data Base Administration 
+__Power BI and Tableau__, Business Analysis
+__Agile Methodology__, Project Management
+
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 9th, 2022 -->
 
 
